@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca29d159.css",
+    "main.js": "/static/js/main.d16bb3b4.js",
+    "static/js/488.68521f19.chunk.js": "/static/js/488.68521f19.chunk.js",
+    "static/media/Section1-img-2.png": "/static/media/Section1-img-2.90ebee9cb1f795b690ca.png",
+    "static/media/Section1-img-3.png": "/static/media/Section1-img-3.6c4941110a5de7c027ea.png",
+    "static/media/Section1-img-1.png": "/static/media/Section1-img-1.1faeceb88bd85d8d4367.png",
+    "static/media/Section4-img-5.png": "/static/media/Section4-img-5.0ec45e33bf4633f9ea2e.png",
+    "static/media/Section4-img-12.png": "/static/media/Section4-img-12.97107418064e23beea8c.png",
+    "static/media/Section2-product-img-3.png": "/static/media/Section2-product-img-3.2ccb703a8854d291aeaa.png",
+    "static/media/Section2-product-img-1.png": "/static/media/Section2-product-img-1.4d45f3214a0caac2a99b.png",
+    "static/media/Section4-img-6.png": "/static/media/Section4-img-6.d6a7f2810449a8ffcdaa.png",
+    "static/media/Section4-img-7.png": "/static/media/Section4-img-7.2e31483aab29d00a5f64.png",
+    "static/media/Section4-img-2.png": "/static/media/Section4-img-2.131ba6ca474b03519efd.png",
+    "static/media/Section4-img-14.png": "/static/media/Section4-img-14.a0454293590042a240fe.png",
+    "static/media/Section4-img-11.png": "/static/media/Section4-img-11.c477cdd0fe9073bec04c.png",
+    "static/media/Section2-product-img-4.png": "/static/media/Section2-product-img-4.42fa5d0ed03edc82aa6c.png",
+    "static/media/Section4-img-13.png": "/static/media/Section4-img-13.2ec468f3c2823a6a9ad2.png",
+    "static/media/Section2-product-img-2.png": "/static/media/Section2-product-img-2.2bf825ae70d48809cc5e.png",
+    "static/media/Section4-img-15.png": "/static/media/Section4-img-15.bfb2eabb2201b517f79b.png",
+    "static/media/Section4-img-8.png": "/static/media/Section4-img-8.41cfeb05602aafea550a.png",
+    "static/media/Section4-img-3.png": "/static/media/Section4-img-3.965e6c53441c3d44a396.png",
+    "static/media/Section4-img-16.png": "/static/media/Section4-img-16.8dde390200e452cfdb64.png",
+    "static/media/Section4-img-10.png": "/static/media/Section4-img-10.6e8ecf4df81b460e8af7.png",
+    "static/media/Section4-img-1.png": "/static/media/Section4-img-1.c314e1e96731d6a4e81f.png",
+    "static/media/Section4-img-9.png": "/static/media/Section4-img-9.c3b14d9f4e0d2c67fe43.png",
+    "static/media/Section4-img-4.png": "/static/media/Section4-img-4.baa13f542e5d71aac2ab.png",
+    "index.html": "/index.html",
+    "main.ca29d159.css.map": "/static/css/main.ca29d159.css.map",
+    "main.d16bb3b4.js.map": "/static/js/main.d16bb3b4.js.map",
+    "488.68521f19.chunk.js.map": "/static/js/488.68521f19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca29d159.css",
+    "static/js/main.d16bb3b4.js"
+  ]
+}
